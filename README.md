@@ -3,3 +3,5 @@
 # Test2
 
 #Gitチュートリアル
+- feature-A
+- fix-B
